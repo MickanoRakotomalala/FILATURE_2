@@ -1,0 +1,4 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+T_carde		TAR	236	nouvelle taille enregistrement : 236
+T_carde	IDMachine	RUB+		IDMachine est une nouvelle clé
+Contrainte_T_machine_T_carde		NWL	T_machine (IDMachine) et T_carde (IDMachine)	Nouvelle liaison entre les fichiers T_machine (IDMachine) et T_carde (IDMachine)

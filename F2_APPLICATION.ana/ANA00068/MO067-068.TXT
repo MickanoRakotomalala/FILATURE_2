@@ -1,0 +1,3 @@
+//MO067-068.TXT ANA00067 TO ANA00068
+T_reception		TAR	55	nouvelle taille enregistrement : 55
+T_reception	Datesaisie	RUB+		Datesaisie est une nouvelle rubrique

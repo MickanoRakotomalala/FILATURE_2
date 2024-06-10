@@ -1,0 +1,3 @@
+//MO089-090.TXT ANA00089 TO ANA00090
+CardeTemp		TAR	220	nouvelle taille enregistrement : 220
+CardeTemp	IDsection	RUB+		IDsection est une nouvelle clé

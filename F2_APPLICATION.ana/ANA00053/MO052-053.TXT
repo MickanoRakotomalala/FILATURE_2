@@ -1,0 +1,4 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+T_livraisonFilature		TAR	204	nouvelle taille enregistrement : 204
+T_livraisonFilature	ID_section	RUB+		ID_section est une nouvelle clé
+Contrainte_T_section_T_livraisonFilature		NWL	T_section (ID_section) et T_livraisonFilature (ID_section)	Nouvelle liaison entre les fichiers T_section (ID_section) et T_livraisonFilature (ID_section)

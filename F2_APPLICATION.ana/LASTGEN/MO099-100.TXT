@@ -1,0 +1,4 @@
+//MO099-100.TXT ANA00099 TO ANA00100
+Temp		TAR	122	nouvelle taille enregistrement : 122
+Temp	slug	RUB+		slug est une nouvelle clé
+Temp	Datesaisie	RUB-		la rubrique Datesaisie est supprimée

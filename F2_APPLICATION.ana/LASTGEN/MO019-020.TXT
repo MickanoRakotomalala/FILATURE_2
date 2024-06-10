@@ -1,0 +1,11 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+T_dref	IDcouleur	RUB+		IDcouleur est une nouvelle clé
+T_dref	IDequipe	RUB+		IDequipe est une nouvelle clé
+T_dref	IDequipe	RUB-		la rubrique IDequipe est supprimée
+T_dref	IDcouleur	RUB-		la rubrique IDcouleur est supprimée
+Contrainte_T_couleur_T_dref		NWL	T_couleur (IDcouleur) et T_dref (IDcouleur)	Nouvelle liaison entre les fichiers T_couleur (IDcouleur) et T_dref (IDcouleur)
+Contrainte_T_equipe_T_dref		NWL	T_equipe (IDequipe) et T_dref (IDequipe)	Nouvelle liaison entre les fichiers T_equipe (IDequipe) et T_dref (IDequipe)
+Contrainte_T_couleur_T_carde		NWL	T_couleur (IDcouleur) et T_carde (IDcouleur)	Nouvelle liaison entre les fichiers T_couleur (IDcouleur) et T_carde (IDcouleur)
+Contrainte_T_equipe_T_carde		NWL	T_equipe (IDequipe) et T_carde (IDequipe)	Nouvelle liaison entre les fichiers T_equipe (IDequipe) et T_carde (IDequipe)
+Contrainte_T_equipe_T_dref		DEL	T_equipe (IDequipe) et T_dref (IDequipe)	Liaison supprimée entre les fichiers T_equipe (IDequipe) et T_dref (IDequipe)
+Contrainte_T_couleur_T_dref		DEL	T_couleur (IDcouleur) et T_dref (IDcouleur)	Liaison supprimée entre les fichiers T_couleur (IDcouleur) et T_dref (IDcouleur)

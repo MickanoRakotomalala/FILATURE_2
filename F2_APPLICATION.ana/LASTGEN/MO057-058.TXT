@@ -1,0 +1,5 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+T_retourFilature		TAR	217	nouvelle taille enregistrement : 217
+T_retourFilature	ID_defaut	RUB+		ID_defaut est une nouvelle clé
+T_defaut		NFI		nouveau fichier
+Contrainte_T_defaut_T_retourFilature		NWL	T_defaut (ID_defaut) et T_retourFilature (ID_defaut)	Nouvelle liaison entre les fichiers T_defaut (ID_defaut) et T_retourFilature (ID_defaut)

@@ -1,0 +1,7 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+T_livraisonFilature		TAR	110	nouvelle taille enregistrement : 110
+T_livraisonFilature	IDqualite	RUB+		IDqualite est une nouvelle clé
+T_livraisonFilature	article	RUB-		la rubrique article est supprimée
+T_qualite		TAR	76	nouvelle taille enregistrement : 76
+T_qualite	IDlivraisonFilature	RUB+		IDlivraisonFilature est une nouvelle clé
+Contrainte_T_livraisonFilature_T_qualite		NWL	T_qualite (IDqualite) et T_livraisonFilature (IDqualite)	Nouvelle liaison entre les fichiers T_qualite (IDqualite) et T_livraisonFilature (IDqualite)

@@ -1,0 +1,2 @@
+//MO074-075.TXT ANA00074 TO ANA00075
+Contrainte_T_couleur_T_retourFilature		NWL	T_couleur (IDcouleur) et T_retourFilature (IDcouleur)	Nouvelle liaison entre les fichiers T_couleur (IDcouleur) et T_retourFilature (IDcouleur)

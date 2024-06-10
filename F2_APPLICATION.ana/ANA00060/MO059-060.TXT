@@ -1,0 +1,4 @@
+//MO059-060.TXT ANA00059 TO ANA00060
+T_retourFilature		TAR	225	nouvelle taille enregistrement : 225
+T_retourFilature	IDqualite	RUB+		IDqualite est une nouvelle clé
+Contrainte_T_qualite_T_retourFilature		NWL	T_qualite (IDqualite) et T_retourFilature (IDqualite)	Nouvelle liaison entre les fichiers T_qualite (IDqualite) et T_retourFilature (IDqualite)

@@ -1,0 +1,4 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+T_carde		TAR	134	nouvelle taille enregistrement : 134
+T_carde	machine	RUB-		la rubrique machine est supprimée
+T_carde	matiere	RUB-		la rubrique matiere est supprimée

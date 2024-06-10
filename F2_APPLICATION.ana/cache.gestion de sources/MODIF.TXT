@@ -1,0 +1,3 @@
+//MO119-120.TXT ANA00119 TO ANA00120
+T_calculPrime		TAR	84	nouvelle taille enregistrement : 84
+T_calculPrime	equipe	RUB-		la rubrique equipe est supprimée

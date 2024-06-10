@@ -1,0 +1,4 @@
+//MO060-061.TXT ANA00060 TO ANA00061
+T_retourFilature		TAR	123	nouvelle taille enregistrement : 123
+T_retourFilature	article	RUB-		la rubrique article est supprimée
+T_retourFilature	observation	RUB-		la rubrique observation est supprimée

@@ -1,0 +1,4 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+T_carde		TAR	228	nouvelle taille enregistrement : 228
+T_carde	IDT_qualite	RUB+		IDT_qualite est une nouvelle clé
+Contrainte_T_qualite_T_carde		NWL	T_qualite (IDT_qualite) et T_carde (IDT_qualite)	Nouvelle liaison entre les fichiers T_qualite (IDT_qualite) et T_carde (IDT_qualite)

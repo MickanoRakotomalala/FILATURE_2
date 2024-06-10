@@ -1,0 +1,6 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+T_carde	IDqualite	RUB+		IDqualite est une nouvelle clé
+T_carde	IDT_qualite	RUB-		la rubrique IDT_qualite est supprimée
+T_dref	IDT_qualite	NNR	IDqualite	ATTENTION : la clé IDqualite a pour nouveau nom IDT_qualite
+Contrainte_T_qualite_T_carde		NWL	T_qualite (IDqualite) et T_carde (IDqualite)	Nouvelle liaison entre les fichiers T_qualite (IDqualite) et T_carde (IDqualite)
+Contrainte_T_qualite_T_carde		DEL	T_qualite (IDqualite) et T_carde (IDT_qualite)	Liaison supprimée entre les fichiers T_qualite (IDqualite) et T_carde (IDT_qualite)

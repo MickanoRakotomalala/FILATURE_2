@@ -1,0 +1,5 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+T_retourFilature		TAR	209	nouvelle taille enregistrement : 209
+T_retourFilature	ID_section	RUB+		ID_section est une nouvelle clé
+T_retourFilature	section	RUB-		la rubrique section est supprimée
+Contrainte_T_section_T_retourFilature		NWL	T_section (ID_section) et T_retourFilature (ID_section)	Nouvelle liaison entre les fichiers T_section (ID_section) et T_retourFilature (ID_section)

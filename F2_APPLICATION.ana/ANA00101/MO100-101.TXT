@@ -1,0 +1,4 @@
+//MO100-101.TXT ANA00100 TO ANA00101
+T_ouvrier		NFI		nouveau fichier
+T_emploi		NFI		nouveau fichier
+Contrainte_T_emploi_T_ouvrier		NWL	T_emploi (ID_emploi) et T_ouvrier (ID_emploi)	Nouvelle liaison entre les fichiers T_emploi (ID_emploi) et T_ouvrier (ID_emploi)

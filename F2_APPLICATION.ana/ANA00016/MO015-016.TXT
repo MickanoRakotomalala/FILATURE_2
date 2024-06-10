@@ -1,0 +1,24 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+T_carde		NNF*	carde	nouveau nom T_carde
+T_dref		NNF*	dref	nouveau nom T_dref
+T_dref		TAR	170	nouvelle taille enregistrement : 170
+T_dref	IDMachine	RUB+		IDMachine est une nouvelle clé
+T_cardeClassique		NNF*	cardeClassique	nouveau nom T_cardeClassique
+T_rembourrage		NNF*	rembourrage	nouveau nom T_rembourrage
+T_retourFilature		NNF*	retourFilature	nouveau nom T_retourFilature
+T_livraisonFilature		NNF*	livraisonFilature	nouveau nom T_livraisonFilature
+T_couleur		NNF*	couleur	nouveau nom T_couleur
+T_equipe		NNF*	equipe	nouveau nom T_equipe
+T_matiere		NNF*	matiere	nouveau nom T_matiere
+T_machine		NNF*	Machine	nouveau nom T_machine
+Contrainte_T_machine_T_dref		NWL	T_machine (IDMachine) et T_dref (IDMachine)	Nouvelle liaison entre les fichiers T_machine (IDMachine) et T_dref (IDMachine)
+T_carde		FRN		
+T_dref		FRN		
+T_cardeClassique		FRN		
+T_rembourrage		FRN		
+T_retourFilature		FRN		
+T_livraisonFilature		FRN		
+T_couleur		FRN		
+T_equipe		FRN		
+T_matiere		FRN		
+T_machine		FRN		

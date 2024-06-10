@@ -1,0 +1,6 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+T_carde		TAR	246	nouvelle taille enregistrement : 246
+T_carde	IDArret	RUB+		IDArret est une nouvelle clé
+T_listeArret		NFI		nouveau fichier
+Contrainte_T_listeArret_T_carde		NWL	T_listeArret (IDArret) et T_carde (IDArret)	Nouvelle liaison entre les fichiers T_listeArret (IDArret) et T_carde (IDArret)
+T_listeArret		FRN		

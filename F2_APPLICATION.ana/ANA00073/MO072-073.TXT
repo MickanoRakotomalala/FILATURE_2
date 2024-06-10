@@ -1,0 +1,2 @@
+//MO072-073.TXT ANA00072 TO ANA00073
+Contrainte_T_couleur_T_livraisonFilature		NWL	T_couleur (IDcouleur) et T_livraisonFilature (IDcouleur)	Nouvelle liaison entre les fichiers T_couleur (IDcouleur) et T_livraisonFilature (IDcouleur)

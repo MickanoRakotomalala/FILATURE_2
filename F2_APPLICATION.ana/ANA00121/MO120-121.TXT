@@ -1,0 +1,2 @@
+//MO120-121.TXT ANA00120 TO ANA00121
+T_calculPrime	datetype	RUB+		datetype est une nouvelle clé

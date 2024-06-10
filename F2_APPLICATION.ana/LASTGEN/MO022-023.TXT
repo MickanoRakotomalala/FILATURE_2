@@ -1,0 +1,4 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+T_carde		TAR	220	nouvelle taille enregistrement : 220
+T_carde	duration	NNR	panne	ATTENTION : la rubrique panne a pour nouveau nom duration
+T_carde	motif	RUB-		la rubrique motif est supprimée

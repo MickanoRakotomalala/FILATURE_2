@@ -1,0 +1,8 @@
+//MO101-102.TXT ANA00101 TO ANA00102
+T_ouvrier		TAR	67	nouvelle taille enregistrement : 67
+T_ouvrier	date_d_embauche	NNR	date_d_embauce	ATTENTION : la clé date_d_embauce a pour nouveau nom date_d_embauche
+T_ouvrier	IDequipe	RUB+		IDequipe est une nouvelle clé
+T_emploi		TAR	72	nouvelle taille enregistrement : 72
+T_emploi	emploi	RUB+		emploi est une nouvelle rubrique
+T_emploi	majoration	RUB+		majoration est une nouvelle rubrique
+Contrainte_T_equipe_T_ouvrier		NWL	T_equipe (IDequipe) et T_ouvrier (IDequipe)	Nouvelle liaison entre les fichiers T_equipe (IDequipe) et T_ouvrier (IDequipe)

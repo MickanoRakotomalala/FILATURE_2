@@ -1,0 +1,4 @@
+//MO096-097.TXT ANA00096 TO ANA00097
+CardeTemp		TAR	284	nouvelle taille enregistrement : 284
+CardeTemp	ID	NNR	IDcarde	ATTENTION : la clé IDcarde a pour nouveau nom ID
+CardeTemp	IDarticle	RUB-		la rubrique IDarticle est supprimée

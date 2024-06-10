@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Contrainte_couleur_carde		DEL	T_couleur (IDcouleur) et T_carde (IDcouleur)	Liaison supprimée entre les fichiers T_couleur (IDcouleur) et T_carde (IDcouleur)
+Contrainte_T_equipe_T_carde		DEL	T_equipe (IDequipe) et T_carde (IDequipe)	Liaison supprimée entre les fichiers T_equipe (IDequipe) et T_carde (IDequipe)

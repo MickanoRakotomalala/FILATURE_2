@@ -1,0 +1,4 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+carde		TAR	217	nouvelle taille enregistrement : 217
+carde	IDcouleur	RUB+		IDcouleur est une nouvelle clé
+Contrainte_couleur_carde		NWL	couleur (IDcouleur) et carde (IDcouleur)	Nouvelle liaison entre les fichiers couleur (IDcouleur) et carde (IDcouleur)

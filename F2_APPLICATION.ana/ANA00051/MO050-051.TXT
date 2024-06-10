@@ -1,0 +1,2 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+T_section	ID_section	NNR	IDT_section	ATTENTION : la clé IDT_section a pour nouveau nom ID_section

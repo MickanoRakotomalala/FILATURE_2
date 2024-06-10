@@ -1,0 +1,3 @@
+//MO091-092.TXT ANA00091 TO ANA00092
+CardeTemp		TAR	275	nouvelle taille enregistrement : 275
+CardeTemp	defaut	RUB+		defaut est une nouvelle clé

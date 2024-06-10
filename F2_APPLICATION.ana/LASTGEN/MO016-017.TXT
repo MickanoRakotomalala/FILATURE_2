@@ -1,0 +1,11 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+T_carde		TAR	208	nouvelle taille enregistrement : 208
+T_carde	IDequipe	RUB+		IDequipe est une nouvelle clé
+T_carde	equipe	RUB-		la rubrique equipe est supprimée
+T_carde	couleur	RUB-		la rubrique couleur est supprimée
+T_dref		TAR	161	nouvelle taille enregistrement : 161
+T_dref	IDequipe	RUB+		IDequipe est une nouvelle clé
+T_dref	equipe	RUB-		la rubrique equipe est supprimée
+T_dref	couleur	RUB-		la rubrique couleur est supprimée
+Contrainte_T_equipe_T_carde		NWL	T_equipe (IDequipe) et T_carde (IDequipe)	Nouvelle liaison entre les fichiers T_equipe (IDequipe) et T_carde (IDequipe)
+Contrainte_T_equipe_T_dref		NWL	T_equipe (IDequipe) et T_dref (IDequipe)	Nouvelle liaison entre les fichiers T_equipe (IDequipe) et T_dref (IDequipe)

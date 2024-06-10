@@ -1,0 +1,2 @@
+//MO092-093.TXT ANA00092 TO ANA00093
+Temp		NNF*	CardeTemp	nouveau nom Temp

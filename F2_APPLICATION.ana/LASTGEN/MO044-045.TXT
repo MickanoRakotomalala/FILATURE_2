@@ -1,0 +1,3 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+T_carde		TAR	155	nouvelle taille enregistrement : 155
+T_carde	type	RUB+		type est une nouvelle clé

@@ -1,0 +1,3 @@
+//MO094-095.TXT ANA00094 TO ANA00095
+CardeTemp		TAR	279	nouvelle taille enregistrement : 279
+CardeTemp	IDarticle	RUB+		IDarticle est une nouvelle clé

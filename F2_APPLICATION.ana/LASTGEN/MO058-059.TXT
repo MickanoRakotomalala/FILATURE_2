@@ -1,0 +1,2 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+T_defaut	nom	CLEN*		la rubrique nom est maintenant une clé

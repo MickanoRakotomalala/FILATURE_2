@@ -1,0 +1,9 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+T_rembourrage		TAR	205	nouvelle taille enregistrement : 205
+T_rembourrage	dateSaisie	RUB+		dateSaisie est une nouvelle clé
+T_retourFilature		TAR	132	nouvelle taille enregistrement : 132
+T_retourFilature	dateSaisie	RUB+		dateSaisie est une nouvelle clé
+T_livraisonFilature		TAR	119	nouvelle taille enregistrement : 119
+T_livraisonFilature	dateSaisie	RUB+		dateSaisie est une nouvelle clé
+T_reception		TAR	55	nouvelle taille enregistrement : 55
+T_reception	dateSaisie	RUB+		dateSaisie est une nouvelle clé
