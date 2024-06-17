@@ -1,0 +1,6 @@
+//MO133-134.TXT ANA00133 TO ANA00134
+TAUX_PRIME		NNF*	TAUX	nouveau nom TAUX_PRIME
+TAUX_PRIME		TAR	21	nouvelle taille enregistrement : 21
+TAUX_PRIME		IDE-*		fichier sans identifiant
+TAUX_PRIME	IDTAUX	RUB-		la rubrique IDTAUX est supprimée
+TAUX_PRIME		FRN		

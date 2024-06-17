@@ -1,0 +1,4 @@
+//MO129-130.TXT ANA00129 TO ANA00130
+T_calculPrime		TAR	84	nouvelle taille enregistrement : 84
+T_calculPrime	Rendement	RUB-		la rubrique Rendement est supprimée
+T_calculPrime	Taux	RUB-		la rubrique Taux est supprimée

@@ -1,0 +1,2 @@
+//MO132-133.TXT ANA00132 TO ANA00133
+TAUX		NFI		nouveau fichier

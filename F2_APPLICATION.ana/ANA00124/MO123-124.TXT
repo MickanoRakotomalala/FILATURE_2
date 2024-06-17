@@ -1,0 +1,2 @@
+//MO123-124.TXT ANA00123 TO ANA00124
+T_emploi	majoration	CNW	Réel sur 4 octets$Entier sur 4 octets	la rubrique majoration a pour nouveau type Réel sur 4 octets

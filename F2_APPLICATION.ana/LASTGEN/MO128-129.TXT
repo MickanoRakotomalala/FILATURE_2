@@ -1,0 +1,8 @@
+//MO128-129.TXT ANA00128 TO ANA00129
+T_ouvrier		TAR	132	nouvelle taille enregistrement : 132
+T_ouvrier	IDDataPrime	RUB-		la rubrique IDDataPrime est supprimée
+T_calculPrime		TAR	92	nouvelle taille enregistrement : 92
+T_calculPrime	Rendement	RUB+		Rendement est une nouvelle rubrique
+T_calculPrime	Taux	RUB+		Taux est une nouvelle rubrique
+DataPrime		FIC-	DataPrime	Fichier supprimé DataPrime
+Contrainte_DataPrime_T_ouvrier		DEL	DataPrime (IDDataPrime) et T_ouvrier (IDDataPrime)	Liaison supprimée entre les fichiers DataPrime (IDDataPrime) et T_ouvrier (IDDataPrime)

@@ -1,0 +1,4 @@
+//MO130-131.TXT ANA00130 TO ANA00131
+T_ouvrier		TAR	140	nouvelle taille enregistrement : 140
+T_ouvrier	Rendement	RUB+		Rendement est une nouvelle clé
+T_ouvrier	Taux	RUB+		Taux est une nouvelle rubrique

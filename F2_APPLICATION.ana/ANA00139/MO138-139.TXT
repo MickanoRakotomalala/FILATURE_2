@@ -1,0 +1,7 @@
+//MO138-139.TXT ANA00138 TO ANA00139
+T_ouvrier		TAR	132	nouvelle taille enregistrement : 132
+T_ouvrier	IDPRIME	RUB-		la rubrique IDPRIME est supprimée
+TAUX_PRIME		TAR	21	nouvelle taille enregistrement : 21
+TAUX_PRIME		IDE-*		fichier sans identifiant
+TAUX_PRIME	IDPRIME	RUB-		la rubrique IDPRIME est supprimée
+Contrainte_TAUX_PRIME_T_ouvrier		DEL	TAUX_PRIME (IDPRIME) et T_ouvrier (IDPRIME)	Liaison supprimée entre les fichiers TAUX_PRIME (IDPRIME) et T_ouvrier (IDPRIME)

@@ -1,0 +1,4 @@
+//MO124-125.TXT ANA00124 TO ANA00125
+T_ouvrier		TAR	132	nouvelle taille enregistrement : 132
+T_ouvrier	Ancienneté	RUB+		Ancienneté est une nouvelle clé
+T_ouvrier	date_de_debauche	RUB+		date_de_debauche est une nouvelle clé

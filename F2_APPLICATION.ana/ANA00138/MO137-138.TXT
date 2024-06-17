@@ -1,0 +1,7 @@
+//MO137-138.TXT ANA00137 TO ANA00138
+T_ouvrier		TAR	136	nouvelle taille enregistrement : 136
+T_ouvrier	IDPRIME	RUB+		IDPRIME est une nouvelle clé
+TAUX_PRIME		TAR	25	nouvelle taille enregistrement : 25
+TAUX_PRIME		IDE+*		fichier avec identifiant
+TAUX_PRIME	IDPRIME	RUB+		IDPRIME est une nouvelle clé
+Contrainte_TAUX_PRIME_T_ouvrier		NWL	TAUX_PRIME (IDPRIME) et T_ouvrier (IDPRIME)	Nouvelle liaison entre les fichiers TAUX_PRIME (IDPRIME) et T_ouvrier (IDPRIME)

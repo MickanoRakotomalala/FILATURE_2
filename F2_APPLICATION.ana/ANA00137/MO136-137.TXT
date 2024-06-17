@@ -1,0 +1,4 @@
+//MO136-137.TXT ANA00136 TO ANA00137
+T_ouvrier		TAR	132	nouvelle taille enregistrement : 132
+T_ouvrier	Rendement	RUB-		la rubrique Rendement est supprimée
+T_ouvrier	Taux	RUB-		la rubrique Taux est supprimée

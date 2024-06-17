@@ -1,0 +1,3 @@
+//MO122-123.TXT ANA00122 TO ANA00123
+T_ouvrier		TAR	118	nouvelle taille enregistrement : 118
+T_ouvrier	Machine	RUB+		Machine est une nouvelle clé

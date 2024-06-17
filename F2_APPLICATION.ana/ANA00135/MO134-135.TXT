@@ -1,0 +1,7 @@
+//MO134-135.TXT ANA00134 TO ANA00135
+T_ouvrier		TAR	144	nouvelle taille enregistrement : 144
+T_ouvrier	IDTAUX_PRIME	RUB+		IDTAUX_PRIME est une nouvelle clé
+TAUX_PRIME		TAR	25	nouvelle taille enregistrement : 25
+TAUX_PRIME		IDE+*		fichier avec identifiant
+TAUX_PRIME	IDTAUX_PRIME	RUB+		IDTAUX_PRIME est une nouvelle clé
+Contrainte_TAUX_PRIME_T_ouvrier		NWL	TAUX_PRIME (IDTAUX_PRIME) et T_ouvrier (IDTAUX_PRIME)	Nouvelle liaison entre les fichiers TAUX_PRIME (IDTAUX_PRIME) et T_ouvrier (IDTAUX_PRIME)

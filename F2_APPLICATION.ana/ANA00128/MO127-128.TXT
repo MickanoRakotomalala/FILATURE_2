@@ -1,0 +1,4 @@
+//MO127-128.TXT ANA00127 TO ANA00128
+T_ouvrier		TAR	140	nouvelle taille enregistrement : 140
+T_ouvrier	IDDataPrime	RUB+		IDDataPrime est une nouvelle clé
+Contrainte_DataPrime_T_ouvrier		NWL	DataPrime (IDDataPrime) et T_ouvrier (IDDataPrime)	Nouvelle liaison entre les fichiers DataPrime (IDDataPrime) et T_ouvrier (IDDataPrime)

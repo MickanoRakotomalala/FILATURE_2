@@ -1,0 +1,5 @@
+//MO126-127.TXT ANA00126 TO ANA00127
+T_ouvrier		TAR	132	nouvelle taille enregistrement : 132
+T_ouvrier	Rendement	RUB-		la rubrique Rendement est supprimée
+T_ouvrier	Taux	RUB-		la rubrique Taux est supprimée
+DataPrime		NFI		nouveau fichier
